@@ -120,13 +120,9 @@ npm run dev
 ![image](https://github.com/user-attachments/assets/7b9ed6c1-90e4-4685-8928-975227929981)
 
 
-##  Future Improvements
+## Currently Working On
 
 - Add user authentication  
 - Keeping track of past user uploaded images
 - Expand to other cancer types or imaging modalities  
-
-##  License
-
-This project is licensed under the MIT License.
 
